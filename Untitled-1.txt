@@ -6,7 +6,10 @@ see hiden files n all files n check git is in folder :>ls -a
 after modify-->(1 step)add-->(2 step)commit
 (1st)add new or chnges file use:)git add filname,
 or
-use:) "git add ." to add all file
+use:) "git add ." to add all file n check "status"
+
+
+(2nd) "commite"  use:) git commit -m ''message"
 
 status commnd:>check status of our code use :git status
 4 status:>
