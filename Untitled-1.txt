@@ -23,3 +23,36 @@ staged:)file ready to be commite
 unmodified:)unchanged
 
 
+
+
+
+
+
+git push coomnd use to push local repo to remote we  :)"git push origin main or (branchname)"
+
+
+
+
+
+
+
+
+git branch:)
+seprate branch for seprate work
+
+chech branch use:)git branch
+chnge branch name use:) git branch -M main
+go to other branch use:) git checkout
+create new branch use:) git checkout -b brnchname
+delet  use:) git branch -d branchname (but first go on unother branch n delet that deleted branch)
+
+merge branch :)
+merge:)git merge brnchname
+compare two branch,commits,files&more :)git diff  comparewithbranname
+
+
+now using github:)
+1)creat pull reqest(PR)
+
+
+
