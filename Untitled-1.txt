@@ -1,0 +1,22 @@
+clone commnd:>copy project from github  to local system
+see all files :> ls
+see hiden files n all files n check git is in folder :>ls -a
+
+
+after modify-->(1 step)add-->(2 step)commit
+(1st)add new or chnges file use:)git add filname,
+or
+use:) "git add ." to add all file
+
+status commnd:>check status of our code use :git status
+4 status:>
+untracked:)
+new file that git does not tracked
+
+modified:)changed
+
+staged:)file ready to be commite
+
+unmodified:)unchanged
+
+
